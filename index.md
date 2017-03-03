@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Nice to Meet You
 
-You can use the [editor on GitHub](https://github.com/myrridin/myrridin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Tom, and I'm a web developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I started out as an independent consultant and Wordpress developer, eventually learning to build MVC web applications with CakePHP. A few years ago I fell in love with Ruby, and have been building Ruby on Rails based web applications ever since. 
 
-### Markdown
+I'm a hackathon enthusiast, open source contributor, previous speaker and teacher and a supporter of local development communities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love to learn and have been entirely self-taught since starting with BASIC and `help` commands. My dream is to never stop growing and developing my craft as a software writer.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myrridin/myrridin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find out more about me through the links on this page, or by sending me a message at [tom@thomashart.me](mailto:tom@thomashart.me)
