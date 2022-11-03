@@ -2,7 +2,7 @@
 
 My name is Tom, and I'm a web developer.
 
-I started out as an independent consultant and Wordpress developer, eventually learning to build MVC web applications with CakePHP. A handful of years ago I fell in love with Ruby, and have been building Ruby on Rails based web applications ever since. My most recent full time work was at [Cornell University](https://cornell.edu/){:target="_blank"}.
+I started out as an independent consultant and Wordpress developer, eventually learning to build MVC web applications with CakePHP. A handful of years ago I fell in love with Ruby, and have been building Ruby on Rails based web applications ever since. My most recent full time work was at [NRC Health](https://nrchealth.com/){:target="_blank"}.
 
 I'm a [hackathon enthusiast](https://medium.com/@hackupstate/the-people-behind-the-code-an-interview-with-tom-hart-aed7c2931352){:target="_blank"} and [organizer](https://hackfrost.devpost.com/){:target="_blank"}, open source contributor, previous speaker and teacher and a supporter of local development communities.
 
